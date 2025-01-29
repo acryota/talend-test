@@ -1,1 +1,12 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_ayD8YN0vEe-LYvK2VUsvrw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "TELEND_TEST_USER1:__goSMNliEe-18OWZR1kVZg",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+} ]
